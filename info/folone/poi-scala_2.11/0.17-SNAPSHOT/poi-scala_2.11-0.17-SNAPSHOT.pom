@@ -5,7 +5,7 @@
     <artifactId>poi-scala_2.11</artifactId>
     <packaging>jar</packaging>
     <description>poi-scala</description>
-    <version>0.16-SNAPSHOT</version>
+    <version>0.17-SNAPSHOT</version>
     <name>poi-scala</name>
     <organization>
         <name>info.folone</name>
