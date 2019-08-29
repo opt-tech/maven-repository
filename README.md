@@ -16,6 +16,7 @@ resolvers += "Opt-Technologies Snapshots" at "https://raw.githubusercontent.com/
 
 ```scala
 resolvers += "Opt-Technologies Releases" at "https://raw.githubusercontent.com/opt-tech/maven-repository/master/releases"
+```
 
 ## ディレクトリレイアウト
 
